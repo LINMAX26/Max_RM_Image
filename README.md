@@ -1,4 +1,5 @@
 # Max_RM_Image
-鏈」鐩綔鑰咃細Max
+项目作者：LinMax
 =================
+
 this is the git for LUT AREA

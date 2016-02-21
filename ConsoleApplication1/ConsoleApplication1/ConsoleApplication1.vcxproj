@@ -87,6 +87,9 @@
     <ClInclude Include="Max_SrcImageProcessing.h" />
     <ClInclude Include="My_Inc.h" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="..\..\README.md" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
